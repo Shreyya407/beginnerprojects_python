@@ -17,3 +17,4 @@ Ideal for anyone starting with Python basics.
 - Case-insensitive input handling
 - Simple and well-commented code
 - No dependencies beyond Python’s standard library—works offline
+
